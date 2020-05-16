@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wisata Jawa Timur</string>
+    <string name="nama_kabupaten">kabupaten_name</string>
+    <string name="profile">Profile</string>
+    <string name="nama_lengkap">Haris Nasrulloh</string>
+    <string name="lokasi_di_peta_jawa_timur">Lokasi di Peta Jawa Timur</string>
+    <string name="email">harisnasrullah212@gmail.com</string>
+</resources>
